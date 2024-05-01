@@ -12,3 +12,7 @@ STEP 1 - DATA EXPLORATION USING EXCEL
 
 STEP 2 - Data Cleaning using Python
   - Please see main.py file
+Step 3 - Data Visualization
+  - Please see the link below:
+    https://public.tableau.com/views/WiTHQuarterlyII/Dashboard4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+    
